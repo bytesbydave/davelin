@@ -9,7 +9,7 @@ $message = $_POST['message'];
 
 
 /*Content*/
-$from = new SendGrid\Email("David Lin", "david.lin21@gmail.com");
+$from = new SendGrid\Email("David Lin", "dave.lin21@yahoo.com");
 $subject = "SUBJECT";
 $to = new SendGrid\Email("Dave", "dave.lin21@gmail.com");
 $content = new SendGrid\Content("text/html", "
@@ -34,6 +34,8 @@ $response = $sg->client->mail()->send()->post($mail);
 <!--Print the response-->
 <pre>
     <?php
-    var_dump($response);
+    $link_address1 = '../index.php';
+    echo "Your message has been sent";
+    echo "<a href='".$link_address1."' class='btn btn-primary'> Back</a>";
     ?>
 </pre>
