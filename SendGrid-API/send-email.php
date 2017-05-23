@@ -7,10 +7,11 @@ $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 
+
 /*Content*/
-$from = new SendGrid\Email("David Lin", "FROM_PERSONAL_EMAIL");
+$from = new SendGrid\Email("David Lin", "david.lin21@gmail.com");
 $subject = "SUBJECT";
-$to = new SendGrid\Email("Dave", "TO_PERSONAL_EMAIL");
+$to = new SendGrid\Email("Dave", "dave.lin21@gmail.com");
 $content = new SendGrid\Content("text/html", "
   Email : {$email}<br>
   Name : {$name}<br>
@@ -18,10 +19,12 @@ $content = new SendGrid\Content("text/html", "
   "
 
   );
+  
+
 
 /*Send the mail*/
 $mail = new SendGrid\Mail($from, $subject, $to, $content);
-$apiKey = ('SENDGRID_API_KEY');
+$apiKey = ($SENDGRID_API_KEY);
 $sg = new \SendGrid($apiKey);
 
 /*Response*/

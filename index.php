@@ -159,8 +159,6 @@
 										</div>
 										<ul class="actions">
 											<button type="submit" class="btn btn-primary">Submit</button>
-											<!--<li><a href="" class="button submit">Send Message</a></li>-->
-											<!--<li><input type="submit" name="submit" id="submit" value="Send Message" /></li>-->
 
 										</ul>
 									</form>
