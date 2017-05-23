@@ -31,6 +31,7 @@ $response = $sg->client->mail()->send()->post($mail);
 <!--Print the response-->
 <pre>
     <?php
-    var_dump($response);
+    $link_address1 = '../index.php';
+    echo "<a href='".$link_address1."' class='btn btn-primary'>Back</a>";
     ?>
 </pre>
