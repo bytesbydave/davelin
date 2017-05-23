@@ -21,7 +21,7 @@ $content = new SendGrid\Content("text/html", "
 
 /*Send the mail*/
 $mail = new SendGrid\Mail($from, $subject, $to, $content);
-$apiKey = ('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');
+$apiKey = ('SENDGRID_API_KEY');
 $sg = new \SendGrid($apiKey);
 
 /*Response*/
@@ -32,6 +32,7 @@ $response = $sg->client->mail()->send()->post($mail);
 <pre>
     <?php
     $link_address1 = '../index.php';
+    echo "Your message has been sent";
     echo "<a href='".$link_address1."' class='btn btn-primary'>Back</a>";
     ?>
 </pre>
