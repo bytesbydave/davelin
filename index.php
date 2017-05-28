@@ -50,7 +50,7 @@
 					<section id="one" class="wrapper style2 spotlights">
 						
 						<section>
-							<a href="https://www.rokawellness.com/" target="_blank" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
+							<a href="https://www.rokawellness.com/" target="_blank" class="image"><img src="images/pic01.jpg" alt="" data-position="top center" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Roka Wellness</h2>
@@ -62,7 +62,7 @@
 							</div>
 						</section>
 						<section>
-							<a href="https://davemintrecipes.herokuapp.com/" target="_blank" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
+							<a href="https://davemintrecipes.herokuapp.com/" target="_blank" class="image border"><img src="images/myrecipes.png" alt="" data-position="25% 25%" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>MyRecipes App</h2>
@@ -74,7 +74,7 @@
 							</div>
 						</section>
 						<section>
-							<a href="http://jamsessiondbc.herokuapp.com/" target="_blank" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
+							<a href="http://jamsessiondbc.herokuapp.com/" target="_blank" class="image border"><img src="images/jamsession.png" alt="" data-position="25% 25%" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Jam Session</h2>
