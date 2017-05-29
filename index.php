@@ -113,7 +113,7 @@
 								</section>
 								<section>
 									<span class="icon major fa-file-archive-o"></span>
-									<h3><a href="https://www.greenclosings.com/" target="_blank">Green Closings</a></h3>
+									<h3><a href="http://www.greenclosings.com/" target="_blank">Green Closings</a></h3>
 									<h5>Business Development 2016-Present</h5>
 									<p>GreenClosings is a transaction management platform designed to optimize the document management process of submitting applications for co-op and condominium ownership properties</p>
 								</section>
