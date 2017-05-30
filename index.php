@@ -50,7 +50,7 @@
 					<section id="one" class="wrapper style2 spotlights">
 						
 						<section>
-							<a href="https://www.rokawellness.com/" target="_blank" class="image"><img src="images/pic01.jpg" alt="" data-position="top center" /></a>
+							<a href="https://www.rokawellness.com/" target="_blank" class="image"><img src="images/roka.png" alt="" data-position="top center" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Roka Wellness</h2>
