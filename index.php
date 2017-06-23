@@ -147,7 +147,7 @@
 									<form method="post" action="SendGrid-API/send-email.php">
 										<div class="field half first">
 											<label for="name">Name</label>
-											<input type="text" name="name" id="name" />
+											<input pattern=".{2,}"   required title="2 characters minimum" type="text" name="name" id="name" />
 										</div>
 										<div class="field half">
 											<label for="email">Email</label>
@@ -155,7 +155,7 @@
 										</div>
 										<div class="field">
 											<label for="message">Message</label>
-											<textarea name="message" id="message" rows="5"></textarea>
+											<textarea pattern=".{10,}"   required title="10 characters minimum" name="message" id="message" rows="5"></textarea>
 										</div>
 										<ul class="actions">
 											<button type="submit" class="btn btn-primary">Submit</button>
