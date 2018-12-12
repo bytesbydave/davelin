@@ -92,32 +92,32 @@
 				<!-- Two -->
 					<section id="two" class="wrapper style3 fade-up">
 						<div class="inner">
-							<h2>Work History</h2>
-							<p>Over the past few years, I have worked at a variety of cool startups in the industries of construction, entertainment, real-estate, and healthcare. </p>
+							<h2>Other Projects</h2>
+							<p>Below are smaller projects that I have created using React</p>
 							<div class="features">
 								<section>
-									<span class="icon major fa-plus-square"></span>
-									<h3><a href="https://www.rokawellness.com/" target="_blank">Roka Wellness</a></h3>
-									<h5>Web Developer 2017-Present</h5>
-									<p>Roka Wellness is an early stage startup that connects its users to mental health professionals, such as life coach, yoga instructors, or psycologists.</p>
+									<span class="icon major fa-play"></span>
+									<h3><a href="https://dave-lin-giphy.herokuapp.com/" target="_blank">Giphy Search</a></h3>
+									<h5><a href="https://github.com/dvdlin214/giphy_search" target="_blank">Github</a></h5>
+									<p>This app allows users to search for Gifs by entering a search term. This front-end project uses React to retrieve and display gifs using the Giphy API. Designs were done using Semantic UI and CSS Grid.</p>
 								</section>
 								<section>
-									<span class="icon major fa-building"></span>
-									<h3><a href="https://www.urban3d.co/" target="_blank">Urban3D</a></h3>
-									<h5>Web/Business Developer 2016-2017</h5>
-									<p>Urban3D is a software solution that enables precast manufacturers to reduce costs by tracking concrete throughout the project lifecycle.</p>
+									<span class="icon major fa-camera-retro"></span>
+									<h3><a href="https://dave-lin-picture-search.herokuapp.com/" target="_blank">Picture Display</a></h3>
+									<h5><a href="https://github.com/dvdlin214/picture_search" target="_blank">Github</a></h5>
+									<p>This app displays a carousel of Images based on a user's search term. This front-end project uses React to retrieve and display images using the Unsplash API. Designs were done using Bootstrap and CSS Grid.</p>
 								</section>
 								<section>
-									<span class="icon major fa-ticket"></span>
-									<h3><a href="https://www.indigogrey.nyc/" target="_blank">Indigo Grey</a></h3>
-									<h5>Business Development 2015-Present</h5>
-									<p>Indigo Grey is an immersive theater production that places the audience at the center of the action in set in a futuristic dystopian sixth borough of New York City. </p>
+									<span class="icon major fa-quote-right"></span>
+									<h3><a href="https://dave-lin-react-quote-generator.herokuapp.com/" target="_blank">Random Quote Generator</a></h3>
+									<h5><a href="https://github.com/dvdlin214/quote_generator" target="_blank">Github</a></h5>
+									<p>This app generates a random inspirational quote using the Quotes on Design API. This front-end project uses React and was designed using Semantic UI and custom CSS.</p>
 								</section>
 								<section>
-									<span class="icon major fa-file-archive-o"></span>
-									<h3><a href="https://www.seedlawyers.com/" target="_blank">Seed Lawyers</a></h3>
-									<h5>Web Developer 2017-Present</h5>
-									<p>Seed Lawyers matches entrepreneurs in need of legal help with lawyers looking to work for equity in the startups they believe in.</p>
+									<span class="icon major fa-film"></span>
+									<h3><a href="https://dave-lin-video-search.herokuapp.com/" target="_blank">Video Finder</a></h3>
+									<h5><a href="https://github.com/dvdlin214/video_search" target="_blank">Github</a></h5>
+									<p>This app allows users to search for YouTube Videos by entering a search term, as well as post the video on Social Media. This front-end project uses React to retrieve and display videos using the YouTube API. Designs were done using Semantic UI and custom CSS.</p>
 								</section>
 								<!--<section>-->
 								<!--	<span class="icon major fa-chain"></span>-->
@@ -253,7 +253,7 @@
 			<footer id="footer" class="wrapper style1-alt">
 				<div class="inner">
 					<ul class="menu">
-						<li>&copy; DaveLin</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						<li>&copy; DaveLin</li>
 					</ul>
 				</div>
 			</footer>
