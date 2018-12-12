@@ -50,14 +50,14 @@
 					<section id="one" class="wrapper style2 spotlights">
 						
 						<section>
-							<a href="https://www.rokawellness.com/" target="_blank" class="image"><img src="images/roka.png" alt="" data-position="top center" /></a>
+							<a href="https://www.seedlawyers.com/" target="_blank" class="image"><img src="images/seedlawyers_logo.png" alt="" data-position="top center" /></a>
 							<div class="content">
 								<div class="inner">
-									<h2>Roka Wellness</h2>
-									<p>Roka Wellness is a mental health app that connects users with various mental health professionals.</p>
+									<h2>SeedLawyers</h2>
+									<p>SeedLawyers is a marketplace for entrepreneurs in search of legal advice. Startups can purchase flat fee legal documents or hire legal counsel.</p>
 									<ul class="actions">
-										<li><a href="https://www.rokawellness.com/" target="_blank" class="button">Check Out The App</a></li>
-										<li><a href="https://www.rokawellness.com/" target="_blank" class="button">View Github</a></li>
+										<li><a href="https://www.seedlawyers.com/" target="_blank" class="button">Check Out The App</a></li>
+										<!--<li><a href="https://www.rokawellness.com/" target="_blank" class="button">View Github</a></li>-->
 									</ul>
 									
 								</div>
