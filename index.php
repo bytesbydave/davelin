@@ -39,7 +39,7 @@
 					<section id="intro" class="wrapper style1 fullscreen fade-up">
 						<div class="inner">
 							<h1>Dave Lin</h1>
-							<p>New York City Based Web Developer and Theater Producer</p>
+							<p>New York City Based Web Developer</p>
 							<ul class="actions">
 								<li><a href="#one" class="button scrolly">Learn more</a></li>
 							</ul>
@@ -57,7 +57,9 @@
 									<p>Roka Wellness is a mental health app that connects users with various mental health professionals.</p>
 									<ul class="actions">
 										<li><a href="https://www.rokawellness.com/" target="_blank" class="button">Check Out The App</a></li>
+										<li><a href="https://www.rokawellness.com/" target="_blank" class="button">View Github</a></li>
 									</ul>
+									
 								</div>
 							</div>
 						</section>
