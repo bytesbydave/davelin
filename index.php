@@ -50,7 +50,7 @@
 					<section id="one" class="wrapper style2 spotlights">
 						
 						<section>
-							<a href="https://www.seedlawyers.com/" target="_blank" class="image"><img src="images/seedlawyers_logo.png" alt="" data-position="top center" /></a>
+							<a href="https://www.seedlawyers.com/" target="_blank" class="image"><img src="https://s3.amazonaws.com/seedlaw-photos/seedlawyers-laptop.jpg" alt="" data-position="top center" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>SeedLawyers</h2>
