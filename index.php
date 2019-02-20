@@ -64,13 +64,14 @@
 							</div>
 						</section>
 						<section>
-							<a href="https://davemintrecipes.herokuapp.com/" target="_blank" class="image border"><img src="images/myrecipes.png" alt="" data-position="25% 25%" /></a>
+							<a href="http://dave-lin-facial-recognition.herokuapp.com/" target="_blank" class="image border"><img src="images/myrecipes.png" alt="" data-position="25% 25%" /></a>
 							<div class="content">
 								<div class="inner">
-									<h2>MyRecipes App</h2>
-									<p>MyRecipes is a cooking web-based app where chefs can create their own recipes and view other recipes by other chefs. This solo project was accomplished using Ruby on Rails.</p>
+									<h2>Facial Recognition App</h2>
+									<p>A web-based application that takes a photo and locates the position of faces and records the entries a user has searched. This solo project was accomplished using React, Node.js, Express.js, and Postgres.</p>
 									<ul class="actions">
-										<li><a href="https://davemintrecipes.herokuapp.com/" target="_blank" class="button">Check Out The App</a></li>
+										<li><a href="http://dave-lin-facial-recognition.herokuapp.com/" target="_blank" class="button">Check Out The App</a></li>
+										<li><a href="https://github.com/dvdlin214/facial_recognition_app" target="_blank" class="button">View Github</a></li>
 									</ul>
 								</div>
 							</div>
