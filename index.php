@@ -64,7 +64,7 @@
 							</div>
 						</section>
 						<section>
-							<a href="http://dave-lin-facial-recognition.herokuapp.com/" target="_blank" class="image border"><img src="https://s3.amazonaws.com/seedlaw-photos/facial-laptop.jpg" alt="" data-position="25% 25%" /></a>
+							<a href="http://dave-lin-facial-recognition.herokuapp.com/" target="_blank" class="image border"><img src="https://s3.amazonaws.com/seedlaw-photos/facial-laptop.png" alt="" data-position="25% 25%" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Facial Recognition App</h2>
