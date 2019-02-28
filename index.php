@@ -77,13 +77,14 @@
 							</div>
 						</section>
 						<section>
-							<a href="http://jamsessiondbc.herokuapp.com/" target="_blank" class="image border"><img src="images/jamsession.png" alt="" data-position="25% 25%" /></a>
+							<a href="http://dave-lin-crawlr.herokuapp.com/" target="_blank" class="image border"><img src="https://s3.amazonaws.com/seedlaw-photos/crawl.png" alt="" data-position="25% 25%" /></a>
 							<div class="content">
 								<div class="inner">
-									<h2>Jam Session</h2>
-									<p>A web-based music repository where amateur musicians can showcase their talents and collaborate with other musicians on projects. This four-person project was accomplished in one week and uses Rails backend and React front-end.</p>
+									<h2>Pub Crawlr</h2>
+									<p>Crawlr is a Social Gathering Platform that allows users to create and join pub crawls in the New York City area. This project uses React on the frontend and Rails API and Postres on the backend. </p>
 									<ul class="actions">
-										<li><a href="http://jamsessiondbc.herokuapp.com/" target="_blank" class="button">Check Out The App</a></li>
+										<li><a href="http://dave-lin-crawlr.herokuapp.com/" target="_blank" class="button">Check Out The App</a></li>
+										<li><a href="https://github.com/dvdlin214/pub_crawl" target="_blank" class="button">View Github</a></li>
 									</ul>
 								</div>
 							</div>
