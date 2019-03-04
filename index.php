@@ -64,26 +64,26 @@
 							</div>
 						</section>
 						<section>
-							<a href="http://dave-lin-facial-recognition.herokuapp.com/" target="_blank" class="image border"><img src="https://s3.amazonaws.com/seedlaw-photos/facial-laptop.png" alt="" data-position="25% 25%" /></a>
+							<a href="https://dave-lin-facial-recognition.herokuapp.com/" target="_blank" class="image border"><img src="https://s3.amazonaws.com/seedlaw-photos/facial-laptop.png" alt="" data-position="25% 25%" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Facial Recognition App</h2>
 									<p>A web-based application that takes a photo and locates the position of faces and records the entries a user has searched. This solo project was accomplished using React, Node.js, Express.js, and Postgres.</p>
 									<ul class="actions">
-										<li><a href="http://dave-lin-facial-recognition.herokuapp.com/" target="_blank" class="button">Check Out The App</a></li>
+										<li><a href="https://dave-lin-facial-recognition.herokuapp.com/" target="_blank" class="button">Check Out The App</a></li>
 										<li><a href="https://github.com/dvdlin214/facial_recognition_app" target="_blank" class="button">View Github</a></li>
 									</ul>
 								</div>
 							</div>
 						</section>
 						<section>
-							<a href="http://dave-lin-crawlr.herokuapp.com/" target="_blank" class="image border"><img src="https://s3.amazonaws.com/seedlaw-photos/crawl.png" alt="" data-position="25% 25%" /></a>
+							<a href="https://dave-lin-crawlr.herokuapp.com/" target="_blank" class="image border"><img src="https://s3.amazonaws.com/seedlaw-photos/crawl.png" alt="" data-position="25% 25%" /></a>
 							<div class="content">
 								<div class="inner">
 									<h2>Pub Crawlr</h2>
 									<p>Crawlr is a Social Gathering Platform that allows users to create and join pub crawls in the New York City area. This project uses React on the frontend and Rails API and Postres on the backend. </p>
 									<ul class="actions">
-										<li><a href="http://dave-lin-crawlr.herokuapp.com/" target="_blank" class="button">Check Out The App</a></li>
+										<li><a href="https://dave-lin-crawlr.herokuapp.com/" target="_blank" class="button">Check Out The App</a></li>
 										<li><a href="https://github.com/dvdlin214/pub_crawl" target="_blank" class="button">View Github</a></li>
 									</ul>
 								</div>
