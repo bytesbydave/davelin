@@ -141,31 +141,31 @@
 				<!-- Three -->
 					<section id="three" class="wrapper style1 fade-up">
 						<div class="inner">
-							<h2>Get in touch</h2>
+							<!--<h2>Get in touch</h2>-->
 							<p></p>
 							<div class="split style1">
 								<section>
 									<div class="form-holder">
             <!--Form-->
 									
-									<form method="post" action="SendGrid-API/send-email.php">
-										<div class="field half first">
-											<label for="name">Name</label>
-											<input pattern=".{2,}"   required title="2 characters minimum" type="text" name="name" id="name" />
-										</div>
-										<div class="field half">
-											<label for="email">Email</label>
-											<input type="email" name="email" id="email" />
-										</div>
-										<div class="field">
-											<label for="message">Message</label>
-											<textarea pattern=".{10,}"   required title="10 characters minimum" name="message" id="message" rows="5"></textarea>
-										</div>
-										<ul class="actions">
-											<button type="submit" class="btn btn-primary">Submit</button>
+									<!--<form method="post" action="SendGrid-API/send-email.php">-->
+									<!--	<div class="field half first">-->
+									<!--		<label for="name">Name</label>-->
+									<!--		<input pattern=".{2,}"   required title="2 characters minimum" type="text" name="name" id="name" />-->
+									<!--	</div>-->
+									<!--	<div class="field half">-->
+									<!--		<label for="email">Email</label>-->
+									<!--		<input type="email" name="email" id="email" />-->
+									<!--	</div>-->
+									<!--	<div class="field">-->
+									<!--		<label for="message">Message</label>-->
+									<!--		<textarea pattern=".{10,}"   required title="10 characters minimum" name="message" id="message" rows="5"></textarea>-->
+									<!--	</div>-->
+									<!--	<ul class="actions">-->
+									<!--		<button type="submit" class="btn btn-primary">Submit</button>-->
 
-										</ul>
-									</form>
+									<!--	</ul>-->
+									<!--</form>-->
 								</section>
 								<section>
 									<ul class="contact">
